@@ -1,2 +1,2 @@
-# gwinthings-printing-shop
+# gwinthings-printing
 A Printing Shop for Everyone
